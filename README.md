@@ -12,3 +12,6 @@
 * Credit_History -> Applicant's credit history (0 for no /1 for yes)
 * Property_District -> Applicant's district of property owned
 * Loan_Status -> Loan approval status (0 for no /1 for yes)
+
+
+[Technical Presentation](https://github.com/AliyevaO/Loan/blob/main/Technical%20Presentation%20Loan%20Prediction)
