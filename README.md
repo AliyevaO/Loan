@@ -28,6 +28,12 @@ The dataset consists of 5584 rows, and 13 columns.The columns represent 12 featu
 | Property_District  |Applicant's district of property owned          | 
 | Loan_Status        |Loan approval status (0 for no /1 for yes)      | 
 
+![](Images/General%20information.png)
+![](Images/Credit%20history%20by%20District.png)
+![](Images/Average%20Applicant%20and%20CoApplicant%20income.png)
+
+
+
 **Model Comparison Summary**
 
 | Model                         | Accuracy   |Precision Class 0|Precision Class 1 |Recall  Class 0|Recall  Class 1 |F1 Class 0 |F1 Class 1    |
